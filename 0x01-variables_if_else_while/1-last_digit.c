@@ -4,7 +4,7 @@
 /**
  * main - main block
  * The function prints a random munber and checks its last digit,
- * Return: 0 
+ * Return: 0
  */
 int main(void)
 {
