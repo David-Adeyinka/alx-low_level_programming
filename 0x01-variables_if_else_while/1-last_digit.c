@@ -3,7 +3,7 @@
 #include <stdlib.h>
 /**
  * main - main block
- * The function prints a random munber and checks its last digit, compares it with 5 and 6
+ * The function prints a random munber and checks its last digit,
  * Return: 0 
  */
 int main(void)
