@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * @n : number of _ to be printed
+ * print_square prints "_"
+ * @n : number of "_" to be printed
  * Return:void
  */
 
