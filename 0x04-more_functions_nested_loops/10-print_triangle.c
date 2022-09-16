@@ -31,5 +31,4 @@ void print_triangle(int size)
 	}
 	if (i == 1)
 		_putchar('\n');
-	
 }
